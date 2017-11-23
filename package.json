@@ -1,0 +1,22 @@
+{
+  "name": "multirepo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serban Ghita",
+  "license": "MIT",
+  "dependencies": {
+    "multirepo-core": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "glob": "^7.1.2",
+    "webpack": "^3.8.1"
+  }
+}
